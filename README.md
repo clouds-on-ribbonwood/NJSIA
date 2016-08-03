@@ -1,3 +1,3 @@
-# hello-world
+# NJSIA
 
-Recovering from a 3 hour walk along the bay.
+Code from working through the Node.js in Action book.
